@@ -31,4 +31,4 @@
     If you're hiring for full-stack, backend, or cloud roles, feel free to reach out!
 <br>
 
-🌱 Reach me → [yulo.jobs@gmail.com](mailto:yulo.jobs@gmail.com)  
+🌱 Reach me → [loyu.jobs@gmail.com](mailto:loyu.jobs@gmail.com)  
