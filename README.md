@@ -19,7 +19,7 @@
 🎓 **Background**
 
 - M.S. in Electrical & Computer Engineering @ UW  
-- 5+ years in backend & clinical data automation 
+- backend & clinical data automation 
 - Now focused on SWE internships and applied AI tooling, with a track record of empathetic communication and cross-functional collaboration.
 <br>
 
