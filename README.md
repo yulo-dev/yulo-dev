@@ -10,7 +10,7 @@
 
 💡 **Currently building:**
 
-- NASA JPL Capstone (AI Testbed Operations Assistant) — transforming operator conversations + telemetry into structured engineering logs
+- NASA JPL Capstone (AI Testbed Operations Assistant) 
 - AI agents & dashboards — e.g., Cloudflare Workers AI baseball stats agent + full-stack analytics dashboards
 - Pinception – a Chrome extension for saving and organizing AI prompts  
 - Excel automation tools with AI integrations (LLM, NLP)
