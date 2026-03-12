@@ -5,13 +5,13 @@
     shipping systems that emphasize reliability, traceability, and clear ownership.
     
     I now focus on building full-stack web apps and developer tools that deliver clear UX and robust backend infrastructure — 
-    from Chrome extensions to lightweight AI-integrated platforms using LLMs, embeddings, and prompt engineering.
+    from Chrome extensions to edge‑hosted AI agents on Cloudflare Workers / Workers AI, with LLMs, embeddings, and careful prompt & system design.
 <br>
 
 💡 **Currently building:**
 
 - NASA JPL Capstone (AI Testbed Operations Assistant) 
-- AI agents & dashboards — e.g., Cloudflare Workers AI baseball stats agent + full-stack analytics dashboards
+- AI agents & dashboards — voice-to-notes meeting assistant using Workers AI + Agents SDK, with stateful workflows on Durable Objects and metrics stored in D1  
 - Pinception – a Chrome extension for saving and organizing AI prompts  
 - Excel automation tools with AI integrations (LLM, NLP)
 - Full-stack web apps with thoughtful UX + scalable backend
@@ -21,7 +21,7 @@
 🎓 **Background**
 
 - M.S. in Electrical & Computer Engineering @ UW  
-- backend & clinical data automation 
+- Backend & data infrastructure
 - Now focused on SWE internships and applied AI tooling, with a track record of empathetic communication and cross-functional collaboration.
 <br>
 
@@ -29,5 +29,3 @@
 
     Interested in full-stack / backend / platform roles—especially where AI meets real product + infrastructure.
 <br>
-
-🌱 Reach me → [yulo.jobs@gmail.com](mailto:yulo.jobs@gmail.com)  
