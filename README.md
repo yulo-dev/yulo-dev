@@ -1,4 +1,4 @@
- ☀️**Hi, I’m Yulo** 
+ ☀️**Hi, I’m Yulo**  
 
     I'm a full-stack developer currently pursuing my Master's in Computer Engineering at the University of Washington.  
     Before grad school, I worked in backend automation and data infrastructure in the clinical research industry — 
