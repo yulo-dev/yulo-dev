@@ -7,5 +7,5 @@ I build **reliable backend systems, data pipelines, and AI-powered tools** that 
 <br>
 🫶 **What I’m looking for**
 
-I’m actively looking for **2026 fall & 2027 winter/spring/summer internships in backend/platform/data/full-stack engineering**, especially teams that care about data, system design, correctness, and performance.
+I’m actively looking for **2027 new grad position in backend/platform/data/full-stack engineering**, especially teams that care about data, system design, correctness, and performance.
 <br>
