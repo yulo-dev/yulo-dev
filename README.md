@@ -5,7 +5,7 @@ I build **reliable backend systems, data pipelines, and AI-powered tools** that 
 <br>  
 <br>
 <br>
-🫶 **What I’m looking for**
+🫶 **What I’m looking for** 
 
 I’m actively looking for **2027 new grad position in backend/platform/data/full-stack engineering**, especially teams that care about data, system design, correctness, and performance.
 <br>
